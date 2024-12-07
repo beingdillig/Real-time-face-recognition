@@ -1,6 +1,6 @@
 # Real-time-face-recognition
 
-real-time face recognition application using Python, leveraging the face_recognition library for facial detection and encoding, and OpenCV for video processing. The primary goal of this project was to build a system capable of identifying and distinguishing between individuals in a live video feed by matching their facial features with pre-stored images.
+Real-time face recognition application using Python, leveraging the face_recognition library for facial detection and encoding, and OpenCV for video processing. The primary goal of this project was to build a system capable of identifying and distinguishing between individuals in a live video feed by matching their facial features with pre-stored images.
 
 Key Features:
 Face Detection and Recognition:
